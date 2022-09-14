@@ -16,7 +16,6 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/rgb.h>
-#include <dt-bindings/zmk/backlight.h>
 
 / {
   behaviors {
@@ -59,21 +58,21 @@
 
         layer_Number {
             bindings = <
-  &none           &none             &none         &none             &none   &none            &none   &none      &none             &none              &none         &none         &none   &none
-  &none           &none             &none         &none             &none   &none            &none   &none  &kp EQUAL      &kp NUMBER_7       &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0   &none
-  &none  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND   &none            &none   &none      &none                                              &none         &none   &none  &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp SINGLE_QUOTE   &none
-  &none           &none             &none         &none             &none   &none            &none   &none      &none             &none              &none         &none         &none   &none  &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3     &kp BACKSLASH   &none
-  &none           &none             &none         &none             &none   &none            &none   &none      &none  &kp LEFT_BRACKET  &kp RIGHT_BRACKET         &none         &none   &none      &none         &none
+  &none           &none             &none         &none         &none   &none            &none   &none      &none             &none              &none         &none         &none   &none
+  &none           &none             &none         &none         &none   &none            &none   &none  &kp EQUAL      &kp NUMBER_7       &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0   &none
+  &none  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI   &none            &none   &none      &none                                              &none         &none   &none  &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp SINGLE_QUOTE   &none
+  &none           &none             &none         &none         &none   &none            &none   &none      &none             &none              &none         &none         &none   &none  &kp GRAVE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3     &kp BACKSLASH   &none
+  &none           &none             &none         &none         &none   &none            &none   &none      &none  &kp LEFT_BRACKET  &kp RIGHT_BRACKET         &none         &none   &none      &none         &none
             >;
         };
 
         layer_Navigation {
             bindings = <
-  &none  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3     &bt BT_SEL 4                             &none        &none  &bt BT_SEL 0  &bt BT_SEL 1     &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                   &none
-  &none         &none         &none         &none         &none            &none                       &bootloader  &bootloader         &none         &none            &none         &none         &none                   &none
-  &none         &none         &none         &none         &none            &none            &rgb_ug RGB_MEFS_CMD 5   &bt BT_CLR         &none                                   &bt BT_CLR    &bt BT_CLR  &rgb_ug RGB_MEFS_CMD 5   &none   &none   &none   &none   &none   &none
-  &none         &none         &none         &none         &none            &none                             &none        &none         &none         &none            &none         &none         &none                   &none   &none   &none   &none   &none   &none   &none
-  &none         &none         &none         &none         &none  &rgb_ug RGB_TOG                        &bl BL_TOG        &none         &none    &bl BL_TOG  &rgb_ug RGB_TOG    &bl BL_INC    &bl BL_DEC                   &none   &none   &none
+  &none           &none             &none         &none         &none   &none            &none   &none   &none   &none   &none   &none   &none   &none
+  &none           &none             &none         &none         &none   &none            &none   &none   &none   &none   &none   &none   &none   &none
+  &none  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI   &none            &none   &none   &none                   &none   &none   &none   &none   &none   &none   &none   &none   &none
+  &none           &none             &none         &none         &none   &none            &none   &none   &none   &none   &none   &none   &none   &none   &none   &none   &none   &none   &none   &none
+  &none           &none             &none         &none         &none   &none            &none   &none   &none   &none   &none   &none   &none   &none   &none   &none
             >;
         };
 
@@ -89,7 +88,7 @@
 
         layer_Function {
             bindings = <
-  &none  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
