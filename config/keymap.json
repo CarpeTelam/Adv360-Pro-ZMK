@@ -20,7 +20,7 @@
         "&none",            "&kp Z",              "&kp X",          "&kp C",            "&kp V",        "&kp B",                     "&none",        "&none",     "&none",       "&none",       "&none",             "&none",         "&none",             "&none",           "&kp N",           "&kp M",       "&kp COMMA",             "&kp DOT",                  "&kp FSLH",  "&none",
         "&none",   "&kp LEFT_SHIFT",   "&kp LEFT_CONTROL",   "&kp LEFT_ALT", "&kp LEFT_COMMAND", "&lt 1 ESCAPE",           "&lt 2 BACKSPACE", "&lt 3 DELETE", "&lt 4 TAB", "&lt 5 SPACE", "&lt 6 ENTER", "&kp RIGHT_COMMAND", "&kp RIGHT_ALT", "&kp RIGHT_CONTROL", "&kp RIGHT_SHIFT",           "&none"
     ], [
-        "&none",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+       "&trans",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none", "&kp LEFT_SHIFT", "&kp LEFT_CONTROL", "&kp LEFT_ALT", "&kp LEFT_GUI",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
@@ -38,29 +38,29 @@
         "&none",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",           "&none",          "&none",           "&none",  "&none",  "&none",       "&kp HOME",  "&kp PAGE_DOWN",  "&kp PAGE_UP",         "&kp END", "&kp DELETE",  "&none",
         "&none",          "&none",            "&none",        "&none",        "&none",  "&none",           "&none",  "&none",  "&none",           "&none",          "&none",           "&none",  "&none",  "&none",          "&none",          "&none"
     ], [
-        "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none",                     "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none"
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none"
     ], [
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none",                     "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&none", "&none", "&none", "&none", "&none",           "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none"
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none"
     ], [
-        "&none",       "&none",       "&none",       "&none",       "&none",       "&none",           "&none", "&none",     "&none", "&none", "&none", "&none", "&none", "&none",
-        "&none",       "&none",       "&none",       "&none",       "&none",       "&none",           "&none", "&none", "&bt BT_CLR", "&none", "&none", "&none", "&none", "&none",
-       "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",           "&none", "&none",     "&none",                     "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none",        "&none",       "&none",       "&none",       "&none",       "&none",           "&none", "&none",     "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-       "&none",       "&none",       "&none",       "&none",       "&none",       "&none",           "&none", "&none",     "&none", "&none", "&none", "&none", "&none", "&none", "&none", "&none"
+        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&none",  "&none",      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&none",  "&none", "&bt BT_CLR",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",           "&none",  "&none",      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&none",  "&none",      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",        "&none",        "&none",        "&none",        "&none",        "&none",           "&none",  "&none",      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none"
     ], [
-       "&bootloader", "&none", "&none", "&none", "&none", "&none",                            "&none",           "&none", "&none", "&none", "&none", "&none", "&none",            "&bootloader",
-            "&none", "&none", "&none", "&none", "&none", "&none",                  "&rgb_ug RGB_TOG", "&rgb_ug RGB_TOG", "&none", "&none", "&none", "&none", "&none",                 "&none",
-            "&none", "&none", "&none", "&none", "&none", "&none",           "&rgb_ug RGB_MEFS_CMD 5",          "&none", "&none",                     "&none", "&none", "&rgb_ug RGB_MEFS_CMD 5", "&none", "&none", "&none", "&none", "&none", "&none",
-            "&none", "&none", "&none", "&none", "&none", "&none",                           "&none",          "&none", "&none", "&none", "&none", "&none", "&none",                 "&none", "&none", "&none", "&none", "&none", "&none", "&none",
-            "&none", "&none", "&none", "&none", "&none", "&none",                           "&none",          "&none", "&none", "&none", "&none", "&none", "&none",                 "&none", "&none", "&none"
+       "&bootloader",  "&none",  "&none",  "&none",  "&none",  "&none",                            "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",            "&bootloader",
+             "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                  "&rgb_ug RGB_TOG", "&rgb_ug RGB_TOG",  "&none",  "&none",  "&none",  "&none",  "&none",                  "&none",
+             "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&rgb_ug RGB_MEFS_CMD 5",           "&none",  "&none",                      "&none",  "&none", "&rgb_ug RGB_MEFS_CMD 5",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+             "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                            "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+             "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                            "&none",           "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                  "&none",  "&none",  "&none"
     ]
   ]
 }
