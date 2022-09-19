@@ -3,7 +3,7 @@
   "keymap": "default",
   "layout": "LAYOUT",
   "layer_names": [
-    "base",
+    "Default",
     "keypad",
     "fn",
     "mod",
