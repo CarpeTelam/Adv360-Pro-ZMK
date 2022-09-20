@@ -51,9 +51,9 @@
     ], [
        "&trans",       "&trans",       "&trans",       "&trans",       "&trans",       "&trans",               "&trans",          "&trans",     "&trans", "&trans", "&trans",      "&trans", "&trans", "&trans",
        "&trans",        "&none",        "&none",        "&none",        "&none",        "&none",               "&trans",          "&trans", "&bt BT_CLR",  "&none",  "&none",       "&none",  "&none", "&trans",
-       "&trans", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",               "&trans", "&rgb_ug RGB_TOG",      "&none",                     "&bootloader",  "&none", "&trans",  "&none", "&kp RIGHT_GUI", "&kp RIGHT_ALT", "&kp RIGHT_CONTROL", "&kp RIGHT_SHIFT", "&trans",
+       "&trans", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",               "&trans",           "&none",      "&none",                     "&bootloader",  "&none", "&trans",  "&none", "&kp RIGHT_GUI", "&kp RIGHT_ALT", "&kp RIGHT_CONTROL", "&kp RIGHT_SHIFT", "&trans",
        "&trans",        "&none",        "&none",        "&none",        "&none",        "&none",               "&trans",          "&trans",     "&trans", "&trans", "&trans",      "&trans", "&trans", "&trans",  "&none",         "&none",         "&none",             "&none",           "&none", "&trans",
-       "&trans",       "&trans",       "&trans",       "&trans",       "&trans",   "&bl BL_DEC",           "&bl BL_TOG",      "&bl BL_INC",      "&none",  "&none",  "&none",      "&trans", "&trans", "&trans", "&trans",        "&trans"
+       "&trans",       "&trans",       "&trans",       "&trans",       "&trans",   "&bl BL_DEC",           "&bl BL_INC", "&rgb_ug RGB_TOG",      "&none",  "&none",  "&none",      "&trans", "&trans", "&trans", "&trans",        "&trans"
     ]
   ]
 }
