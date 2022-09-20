@@ -44,7 +44,7 @@
             >;
         };
 
-        layer_Shortcut {
+        layer_Media {
             bindings = <
  &trans          &trans            &trans        &trans        &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans           &none             &none         &none         &none   &none            &trans  &trans   &none   &none   &none   &none   &none  &trans
@@ -74,13 +74,13 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_Shortcut {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans   &none   &none   &none   &none   &none            &trans  &trans   &none   &none   &none   &none   &none  &trans
+ &trans   &none   &none   &none   &none   &none            &trans   &none   &none                   &none   &none  &trans   &none  &kp RIGHT_GUI  &kp RIGHT_ALT  &kp RIGHT_CONTROL  &kp RIGHT_SHIFT  &trans
+ &trans   &none   &none   &none   &none   &none            &trans  &trans  &tog 4  &trans  &trans  &tog 4  &trans  &trans   &none          &none          &none              &none            &none  &trans
+ &trans  &trans  &trans  &trans  &trans   &none             &none   &none   &none   &none   &none  &trans  &trans  &trans  &trans         &trans
             >;
         };
 
