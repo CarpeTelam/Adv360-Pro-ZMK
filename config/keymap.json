@@ -5,7 +5,7 @@
   "layer_names": [
     "Default",
     "Media",
-    "Layer #2",
+    "Number",
     "Layer #3",
     "Layer #4",
     "Layer #5",
@@ -25,11 +25,11 @@
        "&trans",          "&none",            "&none",        "&none",       "&trans",  "&none",           "&trans", "&trans", "&tog 1", "&trans", "&trans", "&tog 1", "&trans", "&trans",  "&none",  "&none",  "&none",  "&none",  "&none", "&trans",
        "&trans",         "&trans",           "&trans",       "&trans",       "&trans",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none", "&trans", "&trans", "&trans", "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans",         "&trans",           "&trans",       "&trans", "&trans", "&trans",           "&trans", "&trans",    "&trans",       "&trans",       "&trans",       "&trans",       "&trans", "&trans",
+       "&trans",          "&none",            "&none",        "&none",  "&none",  "&none",           "&trans", "&trans", "&kp EQUAL", "&kp NUMBER_7", "&kp NUMBER_8", "&kp NUMBER_9", "&kp NUMBER_0", "&trans",
+       "&trans", "&kp LEFT_SHIFT", "&kp LEFT_CONTROL", "&kp LEFT_ALT",    "&kp",  "&none",           "&trans",  "&none",     "&none",                                        "&none",        "&none", "&trans", "&kp MINUS", "&kp NUMBER_4", "&kp NUMBER_5", "&kp NUMBER_6", "&kp SINGLE_QUOTE", "&trans",
+       "&trans",          "&none",            "&none",        "&none",  "&none",  "&none",           "&trans", "&trans",    "&tog 2",       "&trans",       "&trans",       "&tog 2",       "&trans", "&trans", "&kp GRAVE", "&kp NUMBER_1", "&kp NUMBER_2", "&kp NUMBER_3",    "&kp BACKSLASH", "&trans",
+       "&trans",         "&trans",           "&trans",       "&trans", "&trans",  "&none",            "&none",  "&none",     "&none",        "&none",        "&none",       "&trans",       "&trans", "&trans",    "&trans",       "&trans"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
